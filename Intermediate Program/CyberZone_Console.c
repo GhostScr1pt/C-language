@@ -5,7 +5,7 @@
   System Name      : CYBERZONE CONSOLE
   System Version   : v1.2-beta
   System Type      : POS
-  System Info      : A point of sale system for tech products with admin feature
+  System Info      : A CLI Sales System for tech products with admin feature and scripted bot
   Programming Type : Procedural / Centralized Control
 * * */
 #include<stdio.h>//stands for standard input/output

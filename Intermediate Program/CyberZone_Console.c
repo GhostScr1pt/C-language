@@ -49,7 +49,7 @@ void main_page();
 void login(void);
 void admin_header(void);
 void admin_chatbot();
-//admin command subfunction's\\
+//admin command subfunction's
 void AddProducts(void);
 void signup(void);
 void addPriceDiscountPromotion(void);
